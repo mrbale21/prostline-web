@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef } from "react";
-import { Star, MessageCircle, ChevronLeft, ChevronRight } from "lucide-react";
+import { Star, ChevronLeft, ChevronRight } from "lucide-react";
 import { heroImages } from "../data/constants";
 import { FaWhatsapp } from "react-icons/fa";
 
