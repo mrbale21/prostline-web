@@ -1,5 +1,4 @@
-// src/components/FloatingWhatsApp.tsx
-import { MessageCircle } from "lucide-react";
+
 import { FaWhatsapp } from "react-icons/fa";
 
 interface FloatingWhatsAppProps {
